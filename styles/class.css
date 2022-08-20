@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2? familia=Fraunces:ital,opsz,wght@0,9..144,700;1,9..144,800&display=swap');
+.div-inform
+{
+	margin-top:0;
+	display: block;
+	width: 270px;
+	padding:20px 0 20px 0;
+	background-color:hsl(0, 0%, 100%);
+	border-radius:0 0 13px 13px;
+}
+
+.h1-imform
+{	
+	color: hsl(212, 21%, 14%);
+	font-family:Fraunces;
+	margin-top: 15px;
+}
+#h1-margin{
+	color: hsl(212, 21%, 14%);
+	font-family:Fraunces;
+	margin-right:20px;
+	font-size: 20px;
+}
+
+.p-inform
+{
+	margin-top:5px;
+	
+}
+
+.div-precios 
+{
+	margin:20px 0 0 15px ;
+	font-family: 'Fraunces', serif;
+}
+
+.span-money
+{	
+	color:hsl(158, 36%, 37%);
+	font-weight: 700;
+	font-size:30px;
+}
+.span-underline
+{
+	color:hsl(228, 12%, 48%);
+	font-size:10px;
+	vertical-align: super;
+}
+
+
+/**Footer**/
+.attribution
+{
+	
+	height: 26px;
+	margin:10px 0 0 0;
+	background-color: hsl(228, 22%, 22%);
+}
+.attribution p, .attibution a
+{
+	display: inline-flex;
+	margin-top: 7px;
+} 
+.attribution .p-links 
+{
+	color:red;
+}
+.p-footer
+{
+	color: hsl(12, 0%, 100%); 	
+}
